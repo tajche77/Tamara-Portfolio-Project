@@ -1,12 +1,13 @@
 :root {
   --primary-color: #188395;
-  --secondary-color: #ece7e1;
+  --secondary-color: #dfd2bf;
   --box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
 }
 
 body {
   margin: 60px auto;
   max-width: 1000px;
+  background: #f8efe5;
 }
 
 h1,
