@@ -106,7 +106,7 @@ a {
 .app-link {
   border-radius: 4px;
   background-color: var(--primary-color);
-  color: var(--secondary-color);
+  color: white;
   box-shadow: var(--box-shadow);
   padding: 15px;
   font-size: 18px;
