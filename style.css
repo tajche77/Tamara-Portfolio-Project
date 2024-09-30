@@ -1,5 +1,5 @@
 :root {
-  --primary-color: #6c63ff;
+  --primary-color: #188395;
   --secondary-color: #ece7e1;
   --box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
 }
@@ -40,9 +40,13 @@ p {
 
 img {
   max-width: 200px;
-  border-radius: 7px;
+  border-radius: 55px;
   margin-top: 20px;
   margin-bottom: 20px;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.7);
+}
+a {
+  color: var(--primary-color);
 }
 
 .navigation-links {
